@@ -6,24 +6,6 @@ The minimal empty world of VRChat
 - VRChat3 2022.06.03.00.03 
 - UdonSharp v0.20.3
 
-## Structure
-```markdown
-├ Assets/
-  ├ Gizmos
-  ├ Scenes 
-  ├ Main  `Your custom assets`
-  ├ SerializedUdonPrograms 
-  ├ Udon
-  ├ UdonSharp
-  ├ VRCSDK
-  ├ VRChat Examples
-├ Packages/
-├ ProjectSettings/ 
-├ .gitignore 
-├ LICENSE 
-├ README.md 
-```
-
 ## Reference
 - [VRChat download](https://vrchat.com/home/download)
 - [UdonSharp setup](https://udonsharp.docs.vrchat.com/setup)
